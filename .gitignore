@@ -1,1 +1,10 @@
-videos/
+# videos
+inputs/
+runs/
+models/
+
+# models
+yolo*.pt
+
+# misc
+.env.*
